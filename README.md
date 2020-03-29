@@ -1,2 +1,2 @@
 # TensorFlow-Projects
-TensorFlow projects in python and hopefullt in C++ too 
+TensorFlow projects in python and hopefully in C++ too 
